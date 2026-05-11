@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RAPC712TRP22X"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-01-21-08:29:29)
+    (mountForm default
+        (footprintRef "RAPC712TRP22X")
+        (spec "System")
+    )
+)

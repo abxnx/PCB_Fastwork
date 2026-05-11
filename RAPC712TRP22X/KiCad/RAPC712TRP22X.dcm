@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RAPC712TRP22X
+D DC Power Connectors Right Angle PC Mount DC Power Jack, pin size 0.100"(2.5mm), packaged in a 22" reel
+K
+F https://www.mouser.co.uk/datasheet/2/393/rapc712x_cd-2943016.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_11471775"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-01-21-08:29:29)
+    (utime 2025-01-21-08:29:29)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "RAPC712TRP22X")
+)
+
+
+(pinAssign "ECS_11471775"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-01-21-08:29:29)
+    (utime 2025-01-21-08:29:29)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_11471775")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RAPC712TRP22X")
+)
+
+
+(part "RAPC712TRP22X"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-01-21-08:29:29)
+    (utime 2025-01-21-08:29:29)
+    (packageRef "RAPC712TRP22X")
+    (pinAssignRef "ECS_11471775")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "DC Power Connectors Right Angle PC Mount DC Power Jack, pin size 0.100\"(2.5mm), packaged in a 22\" reel")
+    (property "Mouser_Part_Number" "502-RAPC712TRP22X")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Switchcraft/RAPC712TRP22X?qs=vHuUswq2%252BszirK%2F7pueKKA%3D%3D")
+    (property "Manufacturer_Name" "Switchcraft")
+    (property "Manufacturer_Part_Number" "RAPC712TRP22X")
+    (property "Datasheet_Link" "https://www.mouser.co.uk/datasheet/2/393/rapc712x_cd-2943016.pdf")
+    (property "compAreaTopHeight" 11.176)
+)
+
+

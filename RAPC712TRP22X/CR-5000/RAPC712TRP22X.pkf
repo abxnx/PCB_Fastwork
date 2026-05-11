@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RAPC712TRP22X"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RAPC712TRP22X")
+        (spec "default")
+    )
+)

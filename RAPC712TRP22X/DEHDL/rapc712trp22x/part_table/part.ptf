@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RAPC712TRP22X'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Switchcraft", "RAPC712TRP22X" (!) = "", "RAPC712TRP22X", "Other", "502-RAPC712TRP22X", "https://www.mouser.co.uk/ProductDetail/Switchcraft/RAPC712TRP22X?qs=vHuUswq2%252BszirK%2F7pueKKA%3D%3D", "DC Power Connectors Right Angle PC Mount DC Power Jack, pin size 0.100"(2.5mm), packaged in a 22" reel", "https://www.mouser.co.uk/datasheet/2/393/rapc712x_cd-2943016.pdf", "11.176 mm"
+END_PART
+
+END.

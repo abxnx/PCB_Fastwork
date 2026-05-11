@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BNO055")(type "KiCad")(uri "C:/Users/Chalemkriet/Desktop/PCB01/BNO055.kicad_sym")(options "")(descr ""))
+)

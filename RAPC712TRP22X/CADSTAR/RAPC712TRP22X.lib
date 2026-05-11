@@ -1,0 +1,16 @@
+.RAPC712TRP22X :1 ;DC Power Connectors Right Angle PC Mount DC Power Jack, pin size 0.100"(2.5mm), packaged in a 22" reel
+RAPC712TRP22X
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3"
+*MXP 3
+*DFN RAPC712TRP22X
+~!Mouser Part Number (502-RAPC712TRP22X)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Switchcraft/RAPC712TRP22X?qs=vHuUswq2%252BszirK%2F7pueKKA%3D%3D)
+~!Manufacturer_Name (Switchcraft)
+~!Manufacturer_Part_Number (RAPC712TRP22X)
+~!Link Datasheet (https://www.mouser.co.uk/datasheet/2/393/rapc712x_cd-2943016.pdf)
+~!Height (11.176mm)
+~!3D_Model (RAPC712TRP22X)
+RAPC712TRP22X
+1.1!U 2.1!U 3.1!U 
