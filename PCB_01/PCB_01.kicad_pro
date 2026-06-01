@@ -51,8 +51,31 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        [
+          "unconnected_items|109400000|165240000|F.Cu|4|2488f8b5-deed-4777-9592-75681b64dd94|0ca9abe0-136f-45e2-a04c-78e27a7467ff",
+          ""
+        ],
+        [
+          "unconnected_items|110714214|94600000|F.Cu|4|528b2c23-d794-4907-afcf-39e31aaae0de|be646394-9cdf-44ed-8460-a4e1ec7a2956",
+          ""
+        ],
+        [
+          "unconnected_items|122474000|107580000|F.Cu|4|755756e0-e1f2-4c08-bc03-5fd0acc335df|24864d0d-e264-466f-a856-f64d5ca34087",
+          ""
+        ],
+        [
+          "unconnected_items|122495000|112681000|F.Cu|4|3d0f277c-52f7-4d8b-bd07-1698695a4468|ef92a4b1-2856-46aa-9303-a4f415078eb5",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -133,7 +156,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -180,7 +203,20 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.2,
+        0.251,
+        0.2672,
+        0.3,
+        0.342392,
+        0.4,
+        0.5,
+        0.7,
+        1.0,
+        1.4,
+        2.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -207,7 +243,24 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.35,
+          "drill": 0.3
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.15
+        },
+        {
+          "diameter": 2.0,
+          "drill": 2.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -458,7 +511,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,

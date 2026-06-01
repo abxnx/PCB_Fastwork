@@ -1,4 +1,4 @@
-27015936027543245
+27051508519367320
 74AHCT2G125DC,125
 SOP50P310X100-8N
 SOT765-1
@@ -61411,12 +61411,68 @@ BUZ-TH_BD12.5-P5.00-D0.9
 2
 2
 EasyEDA
+CAP-SMD_BD6.3-L6.6-W6.6-LS7.2-FD
+
+
+0
+2
+2
+EasyEDA
+CAP-SMD_BD10.0-L10.3-W10.3-FD
+
+
+0
+2
+2
+EasyEDA
+CAP-TH_BD4.0-P1.50-D0.8-FD
+100uF 10V
+
+0
+2
+2
+EasyEDA
+CAP-TH_BD6.3-P2.50-D0.5-FD
+100uF 35V
+
+0
+2
+2
+EasyEDA
+CAP-TH_BD6.3-P2.50-D1.0-FD
+
+
+0
+2
+2
+EasyEDA
+CASE-A_3216
+
+
+0
+2
+2
+EasyEDA
 CONN-TH_4P-P5.08_PA001-4P
 
 
 0
 4
 4
+EasyEDA
+IND-SMD_L8.5-W8.0_PCC-M0854M
+
+
+0
+2
+2
+EasyEDA
+IND-SMD_L11.6-W10.1
+
+
+0
+2
+2
 EasyEDA
 LCC-20_L15.5-W15.5-P1.90_SAM-M10Q-00B
 
@@ -61453,6 +61509,20 @@ POWER-1212-8_L3.3-W3.3-P0.66-LS3.3-BL
 10
 8
 EasyEDA
+R0603
+
+
+0
+2
+2
+EasyEDA
+RES-SMD_L3.2-W1.6_SY1206
+
+
+0
+2
+2
+EasyEDA
 SMA-TH_SMA-KE-5
 
 
@@ -61461,6 +61531,13 @@ SMA-TH_SMA-KE-5
 5
 EasyEDA
 SMA_L4.4-W2.6-LS5.0-RD
+
+
+0
+2
+2
+EasyEDA
+SMC_L7.1-W6.2-LS8.1-RD
 
 
 0
@@ -61481,6 +61558,13 @@ SOD-123_L2.8-W1.8-LS3.7-RD
 2
 2
 EasyEDA
+SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.3
+
+
+0
+9
+9
+EasyEDA
 SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR
 
 
@@ -61495,12 +61579,47 @@ SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
 6
 6
 EasyEDA
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR
+
+
+0
+6
+6
+EasyEDA
+SW-SMD_4P-L6.0-W6.0-P4.50-LS9.0_H5.0
+
+
+0
+4
+4
+EasyEDA
 SW-SMD_L3.9-W3.0-P4.45
 
 
 0
 2
 2
+EasyEDA
+TO-263-5_L10.2-W8.6-P1.70-LS14.4-TL
+
+
+0
+6
+6
+EasyEDA
+TQFN-16_L4.0-W4.0-P0.65-BL-EP
+
+
+0
+17
+17
+EasyEDA
+TSSOP-8_L4.4-W3.0-P0.65-LS6.4-BL
+
+
+0
+8
+8
 EasyEDA
 TYPE-C-SMD_HX-TYPE-C-16PIN
 
@@ -71084,6 +71203,13 @@ module pcb
 0
 7
 7
+Molex
+Molex
+
+
+0
+8
+8
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -100526,6 +100652,13 @@ SOP65P490X110-8N
 0
 8
 8
+TP5100
+TQFN-16_L4.0-W4.0-P0.65-BL-EP
+
+
+0
+17
+17
 TerminalBlock
 TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 terminal block MaiXu MX126-5.0-02P, 2 pins, pitch 5mm, size 10.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
@@ -106728,6 +106861,13 @@ igbt diode module
 0
 25
 25
+USB_C_KiCad
+UJ20CHGMSMTR4CP16TR
+UJ20-C-H-G-MSMT-R-4C-P16-TR-3
+Connector
+0
+16
+16
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
